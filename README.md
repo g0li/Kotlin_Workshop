@@ -1,2 +1,2 @@
 # Kotlin_Workshop
-Kotlin Workshop - Alegria 2018
+Kotlin Workshop - Roshan Singh
