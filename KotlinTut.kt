@@ -11,7 +11,7 @@ fun main(args : Array<String>) {
     val name = "Roshan"
 
     // Mutable (changeable) variable
-    var myAge = 42
+    var myAge = 21
 
     // Kotlin uses type inference, but you can define the type
 
